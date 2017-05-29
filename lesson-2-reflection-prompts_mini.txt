@@ -2,11 +2,12 @@ What happens when you initialize a repository?
 creates a .git file
 
 Why do you need to do it?
-Need to initalize a repository befrioe you add files to it!
+Need to initalize a repository before you add files to it!
 
 
 
 How is the staging area different from the working directory and the repository?
+staging area is what you get ready for teh commit, whereas teh working area is for just that experimientation- possibly resources and other files
 
 
 What value do you think it offers?
