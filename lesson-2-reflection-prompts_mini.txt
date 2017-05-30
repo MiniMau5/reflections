@@ -7,6 +7,7 @@ Need to initalize a repository before you add files to it!
 
 
 How is the staging area different from the working directory and the repository?
+
 staging area is what you get ready for teh commit, whereas teh working area is for just that experimientation- possibly resources and other files
 
 
@@ -14,17 +15,22 @@ What value do you think it offers?
 
 
 
-How can you use the staging area to make sure you have one commit per logical
+How can you use the staging area to make sure you have one commit per logical 
 change?
+committ one chaneg at a time with proper titles!
 
 
 
 What are some situations when branches would be helpful in keeping your history
 organized? 
+in trying new functions that you can swiuitch back and forth
+
 
 How would branches help?
 
+
 How do the diagrams help you visualize the branch structure?
+Diagrams help to see the different branches and whoich pnes are reachable, etc...
 
 
 
@@ -37,3 +43,5 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Great when mergin works, but you cannot merge all chnages automatically

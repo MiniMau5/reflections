@@ -1,1 +1,6 @@
-Lesson 3 Reflections text file created
+Reflect: Manual vs. automatic pull
+
+1. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+By pulling  changes manually, you have control of what is being changed- especially sinc eit is open source= in case anyone else has made any chanegs.
+
